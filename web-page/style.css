@@ -10,7 +10,9 @@
  height:40px;
  width:995%;
  margin-top:-5px;
- margin-left:-5px;  
+ margin-left:-5px;
+ 
+
 }
 
 .class-3{
@@ -26,9 +28,30 @@
 
 .class-4{
 
-height:40px;
- width:995%;
+height:15px;
+ width:980px;
 background-color: black;
-margin-left:-5px;    
+margin-left:-5px;
+color: white;
+padding: 20px;
+font-size:15px;
+
 }
 
+.class-6{
+
+height:600px;
+width:1019px;
+background-color:oldlace;
+margin-left:-5px; 
+}
+
+.class-7{
+
+height:150px;
+width:150px;
+float:left;
+display: inline-block;
+margin-left:-5px; 
+  
+}
