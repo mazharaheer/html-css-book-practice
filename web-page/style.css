@@ -1,14 +1,14 @@
 .class-1 {
 
  height:10px;
- width:10%;
- background-color:darkgray;   
+
+ background-color:black;   
 }
 
 .class-2{
 
  height:40px;
- width:995%;
+
  margin-top:-5px;
  margin-left:-5px;
  
@@ -18,21 +18,21 @@
 .class-3{
 
  height:170px;
- width:1019px;
- background-color:white; 
+ 
+ background-color:purple; 
  margin-left:-5px;
  margin-top:-55px;
  font-size:40px; 
-
-}
+ color: red;
+ }
 
 .class-4{
 
 height:15px;
- width:980px;
+
 background-color: black;
 margin-left:-5px;
-color: white;
+color:bisque;
 padding: 20px;
 font-size:15px;
 
@@ -41,17 +41,21 @@ font-size:15px;
 .class-6{
 
 height:600px;
-width:1019px;
-background-color:oldlace;
-margin-left:-5px; 
+
+background-color:purple;
+margin-left:-5px;
+ 
 }
 
 .class-7{
-
 height:150px;
-width:150px;
-float:left;
-display: inline-block;
-margin-left:-5px; 
-  
+ 
+display:inline-block;
+}
+
+.class-8{
+
+height:300px;
+
+background-color: red;    
 }
