@@ -1,61 +1,66 @@
+
 .class-1 {
 
  height:10px;
-
  background-color:black;   
 }
 
 .class-2{
 
  height:40px;
-
  margin-top:-5px;
  margin-left:-5px;
- 
-
 }
 
 .class-3{
 
  height:170px;
- 
- background-color:purple; 
+ background-color:yellow; 
  margin-left:-5px;
  margin-top:-55px;
  font-size:40px; 
  color: red;
- }
+}
 
 .class-4{
 
-height:15px;
+ background-color:green;
+ margin-left:-5px;
+ padding: 5px;
+ font-size:10px;
+ margin-left:-5px;
+}
 
-background-color: black;
-margin-left:-5px;
-color:bisque;
-padding: 20px;
-font-size:15px;
+.class-5{
 
+ padding:5px;
+ height:30px;
+ width:90px;
+ background-color:red;
+ margin-bottom: 10px; 
+ margin-top:10px;
+ border-radius: 5px;
 }
 
 .class-6{
 
-height:600px;
-
-background-color:purple;
-margin-left:-5px;
- 
+ height:700px;
+ background-color:lightgoldenrodyellow;
+ margin-left:-5px;
 }
 
 .class-7{
-height:150px;
- 
-display:inline-block;
+  
+ height:150px;
+ background-color:yellow;
+ margin-left:-5px;
 }
 
 .class-8{
 
-height:300px;
-
-background-color: red;    
+ height:150px;
+ display:inline-block;
+ height: 214.5px;
+ width: 214.5px; 
+ margin-left: 5px;
 }
