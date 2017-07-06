@@ -53,49 +53,80 @@ padding: 30px 130px 30px 130px;
 .right-div{
  background-color: purple;
  height: 900px;
- display: inline-block; 
- 
+ display: inline-block;
+  margin-bottom:-602px;
 }
 
 .left-div{
  background-color: burlywood;
  height: 900px;
- 
  display: inline-block;
-}
-
-.class-4{
-
-
 
 }
 
-.class-5{
+.image{
 
-
-
-}
-
-.class-6{
-
-
+height:245.5px;
+width: 245.5px;
 
 }
 
-.class-7{
+.left-internal1adiv{
 
+height: 50px;
+width: 245px;
+background-color:brown;
+border-radius: 40px;
+margin-top: 20px;
+}
+ 
+.left-internaladiv{
 
+margin-left: 35px; 
+padding: 10px;
+font-size: 20px;
+color: white;   
+}
+
+.left-internal1bdiv{
+
+height: 160px;
+width: 245px;
+background-color: gray;
 
 }
 
-.class-8{
+.left-internal2adiv{
 
-
+height: 50px;
+width: 245px;
+background-color: gold;
+border-radius: 40px;
 
 }
 
-.class-9{
+.left-internal2bdiv{
 
+height: 160px;
+width: 245px;
+background-color: gray;
+
+}
+
+.left-internal3adiv{
+
+height: 50px;
+width: 245px;
+background-color: red;
+border-radius: 40px;
+
+}
+
+.left-internal3bdiv{
+
+height: 160px;
+width: 245px;
+background-color: gray;
 
 
 }
