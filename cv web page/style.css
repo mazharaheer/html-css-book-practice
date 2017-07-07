@@ -11,12 +11,14 @@ padding: 30px 130px 30px 130px;
  height: 900px;
  display: inline-block;
   margin-bottom:-602px;
+
 }
 
 .left-div{
  background-color: burlywood;
- height: 900px;
+ height: 1108px;
  display: inline-block;
+ 
 
 }
 
@@ -27,16 +29,16 @@ width: 245.5px;
 
 }
 
-.left-internal1adiv{
+.left-internal-1A-div{
 
 height: 50px;
 width: 245px;
 background-color:brown;
 border-radius: 40px;
-margin-top: 20px;
+margin-top: 1px;
 }
  
-.left-internaladiv{
+.left-internal-1a-div{
 
 margin-left: 35px; 
 padding: 10px;
@@ -44,7 +46,7 @@ font-size: 20px;
 color: white;   
 }
 
-.left-internal1bdiv{
+.left-internal-1B-div{
 
 height: 160px;
 width: 245px;
@@ -52,16 +54,24 @@ background-color: gray;
 
 }
 
-.left-internal2adiv{
+.left-internal-2A-div{
 
 height: 50px;
 width: 245px;
-background-color: gold;
+background-color: green;
 border-radius: 40px;
 
 }
 
-.left-internal2bdiv{
+.left-internal-2a-div{
+
+margin-left: 65px; 
+padding: 10px;
+font-size: 20px;
+color: white;   
+}
+
+.left-internal-2B-div{
 
 height: 160px;
 width: 245px;
@@ -69,7 +79,7 @@ background-color: gray;
 
 }
 
-.left-internal3adiv{
+.left-internal-3A-div{
 
 height: 50px;
 width: 245px;
@@ -78,7 +88,41 @@ border-radius: 40px;
 
 }
 
-.left-internal3bdiv{
+.left-internal-3a-div{
+
+margin-left: 75px; 
+padding: 10px;
+font-size: 20px;
+color: white;   
+}
+
+.left-internal-3B-div{
+
+height: 160px;
+width: 245px;
+background-color: gray;
+
+
+}
+
+.left-internal-4A-div{
+
+height: 50px;
+width: 245px;
+background-color: red;
+border-radius: 40px;
+
+}
+
+.left-internal-4a-div{
+
+margin-left: 75px; 
+padding: 10px;
+font-size: 20px;
+color: white;   
+}
+
+.left-internal-4B-div{
 
 height: 160px;
 width: 245px;
