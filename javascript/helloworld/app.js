@@ -10,6 +10,14 @@ var data = "My Name is " + fullName + " " + "\n My age is " + age + " years"; //
 
 
 function showDetails() {
-    var cityName = prompt("Enter City Name")
-    alert("You city is " + cityName);
+    var firstNumber = prompt("Enter First Number");
+    // var secondNumber = prompt("Enter Second Number");
+    // var cityName = prompt("Enter City Name");
+
+    // alert("You city is " + cityName);
+
+    // var firstNumber = document.getElementById("firstNumber").value;
+
+    document.getElementById("cityId").innerHTML = firstNumber;
 }
+
